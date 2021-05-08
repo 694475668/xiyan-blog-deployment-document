@@ -48,17 +48,13 @@
 【夕颜支付】：https://pay.xiyanit.cn/ <br>
 【夕颜后台管理系统】：https://manage.xiyanit.cn/
 
-| 字节跳动小程序版  | 微信小程序版  |
+| 支付宝小程序版  | 微信小程序版  |
 |---|---|
-| 平台审核中，敬请期待  | <img src="images/wechat.jpg" width="200"/>  |
-| 百度小程序版  | QQ小程序版  |
-| 平台审核中，敬请期待  | 平台审核中，敬请期待  |
-|  支付宝小程序版 | 360小程序版  |
-|  <img src="images/ali.jpg" width="200"/> |  平台审核中，敬请期待 |
-| IOS版  |  Android版  |
-| 平台审核中，敬请期待  | <img src="images/app.png" width="200"/>  |
-| 快应用版  | H5版  |
-| 平台审核中，敬请期待  | <img src="images/h5.png" width="200"/>  |
+| <img src="images/ali.jpg" width="200"/>  | <img src="images/wechat.jpg" width="200"/>  |
+| H5版  | QQ小程序版  |
+| <img src="images/h5.png" width="200"/>  | <img src="images/qq.png" width="200"/>  |
+| Android版  |
+| <img src="images/app.png" width="200"/>  |
 
 ### 系统架构图
 
